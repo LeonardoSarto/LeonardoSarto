@@ -4,8 +4,8 @@
   <img width="50%" height="auto" src="https://cdn.discordapp.com/attachments/921445393169006693/1082513675220426843/Sarto_transicao_gif.gif">
   <br>
   <br>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=LeonardoSarto&show_icons=true&theme=dark">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSarto&layout=compact&theme=dark&langs_count=8">
+  <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=LeonardoSarto&show_icons=true&theme=dark">
+  <img width="33%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSarto&layout=compact&theme=dark&langs_count=8">
   <br>
   <br>
   <img width="7%" height="auto" src="https://cdn.discordapp.com/attachments/921445393169006693/1082517980132421642/dart-logo.png">
