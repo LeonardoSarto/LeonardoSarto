@@ -1,19 +1,20 @@
 ### Hi there 👋
 
 <div align="left">
-  <img width="60%" height="auto" src="https://cdn.discordapp.com/attachments/921445393169006693/1082513675220426843/Sarto_transicao_gif.gif">
+  <img width="45%" height="auto" src="https://cdn.discordapp.com/attachments/921445393169006693/1082513675220426843/Sarto_transicao_gif.gif">
   <br>
   <br>
   <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=LeonardoSarto&show_icons=true&theme=dark">
   <img width="33%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSarto&layout=compact&theme=dark&langs_count=8">
   <br>
   <br>
-  <img width="5%" height="auto" src="https://cdn.discordapp.com/attachments/921445393169006693/1082517980132421642/dart-logo.png">
-  <img width="5%" height="auto" src="https://cdn.discordapp.com/attachments/921445393169006693/1082518014475378708/javascript-logo.png">
-  <img width="5%" height="auto" src="https://cdn.discordapp.com/attachments/921445393169006693/1082518032473137242/typescript-logo.png">
-  <img width="5%" height="auto" src="https://cdn.discordapp.com/attachments/921445393169006693/1082518051947290664/golang-logo.png">
-  <img width="5%" height="auto" src="https://cdn.discordapp.com/attachments/921445393169006693/1082518065251627098/java-logo.png">
-  
+  <div style="display: inline_block"><br>
+    <img align="center" width="5%" height="auto" src="https://cdn.discordapp.com/attachments/921445393169006693/1082517980132421642/dart-logo.png">
+    <img align="center" width="5%" height="auto" src="https://cdn.discordapp.com/attachments/921445393169006693/1082518014475378708/javascript-logo.png">
+    <img align="center" width="5%" height="auto" src="https://cdn.discordapp.com/attachments/921445393169006693/1082518032473137242/typescript-logo.png">
+    <img align="center" width="5%" height="auto" src="https://cdn.discordapp.com/attachments/921445393169006693/1082518051947290664/golang-logo.png">
+    <img align="center" width="5%" height="auto" src="https://cdn.discordapp.com/attachments/921445393169006693/1082518065251627098/java-logo.png">
+  </div>
   <br>
   <br>
   <a href="https://www.linkedin.com/in/leonardo-sarto-978b99219">
