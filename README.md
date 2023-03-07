@@ -42,7 +42,7 @@
 
 <div align="center">
   <h1>
-    See more about me and my projects in my portfolio
+    See more about my projects in my portfolio
   </h1>
     <a href="https://leonardosarto.github.io/portfolio">
       <img width="50%" height="auto" src="https://cdn.discordapp.com/attachments/921445393169006693/1082528974405632061/image.png">
