@@ -1,8 +1,12 @@
 ### Hi there 👋
 
 <div align="left">
-  <img width="45%" height="auto" src="https://cdn.discordapp.com/attachments/921445393169006693/1082513675220426843/Sarto_transicao_gif.gif">
-  <br>
+  <h1>
+    See more about me and my projects in my portfolio
+  </h1>
+  <video width="320" height="240" autoplay>
+    <source src="https://cdn.discordapp.com/attachments/921445393169006693/1082528076359028828/2023-03-07_01-57-49.mp4" type="video/mp4">
+  </video>
   <br>
   <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=LeonardoSarto&show_icons=true&theme=dark">
   <img width="33%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSarto&layout=compact&theme=dark&langs_count=8">
