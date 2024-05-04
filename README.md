@@ -22,13 +22,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
-
-
-<div align="center">
-  <h1>
-    See more about my projects in my portfolio📝
-  </h1>
-  <a href="https://leonardosarto.github.io/portfolio">
-    <img width="50%" height="auto" src="https://cdn.discordapp.com/attachments/921445393169006693/1082528974405632061/image.png">
-  </a>
-</div>
